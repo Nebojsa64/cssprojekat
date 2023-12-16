@@ -1,0 +1,145 @@
+html{
+    font-family: 'Franklin Gothic Medium';
+    background: orange;
+}
+.Naslov p{
+    font-size: 150%;
+    font-size: 400%;
+    position: relative;
+    top: -10px;
+    text-align: center;
+    text-decoration: overline;
+}
+.Ponuda img{
+    background-image: url("Audietron.webp");
+    position: left;
+    top: 100px;
+    height: 300px;
+    right: -30px; 
+    border-radius: 20px;
+}
+.Ponuda-2 img{
+    background-image: url("AudiEGT.jpg");
+    position: relative;
+    top: -300px;
+    height: 300px;
+    left: 1000px; 
+    border-radius: 20px;
+}
+.navbar-Kontakt a{
+    color: black;
+    text-align: center;
+    padding: 7px 550px;
+    text-decoration: none;
+    font-size: 150%;
+}
+.navbar-Kontakt ul li a:hover{
+    color: yellow;
+    background: black; 
+}
+.navbar ul li a{
+    font-size: 40px;
+    color: black;
+    position: relative;
+    top: -20px;
+    left: 1100px;
+    padding: 7px;
+}
+.footer{
+    border: 5px solid black;
+    width: 5000px;
+    height: 100px;
+    position: relative;
+    top: 100px;
+    background: black;
+}
+.footer a{
+    color: white;
+    position: relative;
+    right: -650px;
+    font-size: 200%;
+    font-weight: bold;
+}
+.AudiEGT h1{
+    position: relative;
+    top: -360px;
+    left: 1000px;
+    color: white;
+}
+.Cena p{
+position: relative;
+top: -380px;
+left: 1200px;
+font-size: 230%;
+}
+.Cena p:hover{
+    color: green;
+}
+.Cena p1{
+position: relative;
+top: -380px;
+left: 1200px;
+font-size: 100%;
+}
+.Cena p2{
+    position: relative;
+    top: -360px;
+    left: 1050px;
+    font-size: 100%;
+}
+.Cena p3{
+    position: relative;
+    top: -340px;
+    left: 850px;
+    font-size: 100%;
+}
+.Cena p4{
+    position: relative;
+    top: -320px;
+    left: 650px;
+    font-size: 100%;
+}
+.Audietron h2{
+    position: relative;
+    top: -550px;
+    color: white;
+    font-size: 150%;
+}
+.Cena p5{
+    position: relative;
+    top: -550px;
+    font-size: 150%;
+    left: 100px;
+    font-size: 230%;
+}
+.Cena p6{
+    position: relative;
+    top: -480px;
+    font-size: 150%;
+    left: -100px;
+    font-size: 100%;
+}
+.Cena p7{
+    position: relative;
+    top: -460px;
+    font-size: 150%;
+    left: -260px;
+    font-size: 100%;
+}
+.Cena p8{
+    position: relative;
+    top: -440px;
+    font-size: 150%;
+    left: -450px;
+    font-size: 100%;
+}
+.Cena p9{
+    position: relative;
+    top: -420px;
+    font-size: 150%;
+    left: -670px;
+    font-size: 100%;
+}
+.Cena p5:hover{
+    color: green;
+}

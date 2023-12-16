@@ -1,0 +1,170 @@
+html{
+    font-family: 'Franklin Gothic Medium';
+    background: orange;
+}
+main p {
+    font-size: 500%;
+    text-align: center;
+    color: black;
+    position: relative;
+    top: -200px;
+    text-decoration: none;
+}
+main p:hover{
+    color: white;
+    transition: ease-in-out 1.5s ;
+}
+.navbar-Kontakt a{
+    color: black;
+    text-align: center;
+    padding: 7px 550px;
+    text-decoration: none;
+    font-size: 150%;
+}
+.navbar-Kontakt ul li a:hover{
+    color: yellow;
+    background: black; 
+}
+.navbar img {
+    background-image: url('../images/logo.jpg');
+    height: 20vh; 
+    padding: 3px 7px;
+    position: relative;
+    top: -80px;
+    border-radius: 20px;
+}
+.navbar ul li a{
+    font-size: 40px;
+    color: black;
+    position: relative;
+    top:-200px;
+    left: 1100px;
+    padding: 7px;
+}
+main p {
+    background-image: url("images/AudiRS7.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    position: relative;
+    top: -1200px;
+    border-radius: 20px;
+}
+main p:hover{
+    background-image: url("images/AudiE.jpg");
+    transition: ease-in-out 1.5s ;
+    border-radius: 20px;
+}
+.AudiA8 img{
+    background-image: url("images/Audia8.jpg");
+    position: relative;
+    top: 600px;
+    height: 300px;
+    border-radius: 20px;
+}
+p{
+    font-size: 400%;
+    position: relative;
+    top: 650px;
+    text-align: center;
+    text-decoration: overline;
+}
+h1{
+    font-size: 130%;
+    position: relative;
+    top: 550px;
+    left: 220px;
+    color: white;
+    font-weight: bold;
+}
+p2{
+    position: relative;
+    top: 550px;
+    left: 190px;
+    font-size: 200%;
+    text-align: center;
+}
+p2:hover{
+    color: green;
+}
+p3{
+    position: relative;
+    top: 600px;
+    right: 190px;
+}p4{
+    position: relative;
+    top: 630px;
+    right: 443px;
+}
+p5{
+    position: relative;
+    top: 660px;
+    right: 712px;   
+}
+p11{
+    position: relative;
+    top: 690px;
+    right: 930px;
+}
+.AudiRS6 img{
+    background-image: url("images/AudiRS6.jpg");
+    position: relative;
+    top: 200px;
+    height: 300px;
+    left:1035px;
+    border-radius: 20px;
+}
+h2{
+    font-size: 130%;
+    position: relative;
+    top: 150px;
+    left:1150px ;
+    color: white;
+    font-weight: bold;
+}
+p6{
+    position: relative;
+    top: 150px;
+    left: 1100px;
+    font-size: 200%;
+    text-align: center;
+}
+p6:hover{
+    color: green;
+}
+p7{
+    position: relative;
+    top: 200px;
+    left: 850px; 
+}
+p8{
+    position: relative;
+    top:230px ;
+    left: 580px;
+}
+p9{
+    position: relative;
+    top: 260px;
+    left: 330px;
+}
+p10{
+    position: relative;
+    top: 290px;
+    left: 100px;
+}
+.footer{
+    border: 5px solid black;
+    width: 5000px;
+    height: 200px;
+    position: relative;
+    top: -400px;
+    background: black;
+}
+.footer a{
+    color: white;
+    position: relative;
+    right: -650px;
+    font-size: 200%;
+    font-weight: bold;
+    text-align: center;
+}

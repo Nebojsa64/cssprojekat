@@ -1,0 +1,83 @@
+html{
+    font-family: 'Franklin Gothic Medium';
+    background: orange;
+}
+main p{
+    font-size: 300%;
+    text-align: center;
+}
+.ime-prezime{
+border: 5px solid black;
+border-radius: 5px;
+width: 500px;
+margin: auto;
+height: 600px;
+}
+.ime-prezime p{
+    color: black;
+    text-align: center;
+    font-size: 150%;
+}
+.ime-prezime input{
+    border: 5px solid grey;
+    border-radius: 5px;
+    width: 485px;
+    margin: auto;
+    color: black;
+    position: relative;
+    top: -15px;
+    font-size: 150%;
+}
+.Email input{
+    border: 5px solid grey;
+    border-radius: 5px;
+    width: 485px;
+    margin: auto;
+    color: black;
+    position: relative;
+    top: -15px;
+    font-size: 150%;
+}
+textarea{
+    border: 5px solid grey;
+    border-radius: 5px;
+    width: 485px;
+    margin: auto;
+    color: black;
+    position: relative;
+    top: -15px;
+    font-size: 150%;
+    height: 200px;
+}
+.submit{
+    margin: auto;
+    display: block;
+    padding: 10px 15px;
+    border-radius: 25px;
+    border: 2px solid #123740;
+    font-weight: bold;
+    font-size: 17px;
+    cursor: crosshair;
+}
+.submit:hover{
+    background: orange;
+}
+.navbar-Kontakt a{
+    color: black;
+    text-align: center;
+    padding: 7px 550px;
+    text-decoration: none;
+    font-size: 150%;
+}
+.navbar-Kontakt ul li a:hover{
+    color: yellow;
+    background: black; 
+}
+.navbar ul li a{
+    font-size: 40px;
+    color: black;
+    position: relative;
+    top: -20px;
+    left: 1100px;
+    padding: 7px;
+}
